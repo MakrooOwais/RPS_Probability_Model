@@ -32,7 +32,7 @@ The `player` function can be used as a strategy for playing Rock-Paper-Scissors 
 
 It's important to understand that this strategy is not foolproof, and its effectiveness may vary depending on the opponent's playing style. While Markov Chain models can offer reasonable predictions based on past behavior, they do not guarantee victory in every scenario. Winning at Rock-Paper-Scissors often involves a combination of strategies, psychology, and randomness.
 
-### Assignment
+## Assignment - Problem Statement
 
 For this challenge, you will create a program to play Rock, Paper, Scissors. A program that picks at random will usually win 50% of the time. To pass this challenge your program must play matches against four different bots, winning at least 60% of the games in each match.
 
